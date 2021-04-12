@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A552B5FE-650E-4687-AFC3-61F3A4E64B3B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Plotter/WindowController.cs">
+    <Files>
+      <File FileName="Plotter/WindowController.cs" Line="79" Column="1" />
+      <File FileName="Plotter/Functions.cs" Line="11" Column="85" />
+      <File FileName="Plotter/Main.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Plotter" expanded="True">
+            <Node name="Plotter" expanded="True">
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Plotter PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

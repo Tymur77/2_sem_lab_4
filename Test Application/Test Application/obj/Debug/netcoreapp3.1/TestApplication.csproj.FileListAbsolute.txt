@@ -1,0 +1,12 @@
+/Users/viktoria/Projects/Test Application/Test Application/bin/Debug/netcoreapp3.1/TestApplication.deps.json
+/Users/viktoria/Projects/Test Application/Test Application/bin/Debug/netcoreapp3.1/TestApplication.runtimeconfig.json
+/Users/viktoria/Projects/Test Application/Test Application/bin/Debug/netcoreapp3.1/TestApplication.runtimeconfig.dev.json
+/Users/viktoria/Projects/Test Application/Test Application/bin/Debug/netcoreapp3.1/TestApplication.dll
+/Users/viktoria/Projects/Test Application/Test Application/bin/Debug/netcoreapp3.1/TestApplication.pdb
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.csprojAssemblyReference.cache
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.AssemblyInfoInputs.cache
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.AssemblyInfo.cs
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.csproj.CoreCompileInputs.cache
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.dll
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.pdb
+/Users/viktoria/Projects/Test Application/Test Application/obj/Debug/netcoreapp3.1/TestApplication.genruntimeconfig.cache

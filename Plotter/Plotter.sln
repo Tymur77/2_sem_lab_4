@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotter", "Plotter\Plotter.csproj", "{A552B5FE-650E-4687-AFC3-61F3A4E64B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A552B5FE-650E-4687-AFC3-61F3A4E64B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A552B5FE-650E-4687-AFC3-61F3A4E64B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A552B5FE-650E-4687-AFC3-61F3A4E64B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A552B5FE-650E-4687-AFC3-61F3A4E64B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2ED2646-CFD9-4C52-9ABB-1DE97A0C2977}
+	EndGlobalSection
+EndGlobal

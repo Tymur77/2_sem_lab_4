@@ -1,0 +1,17 @@
+/Users/viktoria/Projects/Plotter/Plotter/bin/Debug/Plotter.exe
+/Users/viktoria/Projects/Plotter/Plotter/bin/Debug/Plotter.pdb
+/Users/viktoria/Projects/Plotter/Plotter/bin/Debug/OxyPlot.dll
+/Users/viktoria/Projects/Plotter/Plotter/bin/Debug/OxyPlot.Xamarin.Mac.dll
+/Users/viktoria/Projects/Plotter/Plotter/bin/Debug/OxyPlot.xml
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/actool/_PartialAppManifest.items
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/Plotter.csprojAssemblyReference.cache
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/Plotter.csproj.CoreCompileInputs.cache
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/Plotter.csproj.CopyComplete
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/Plotter.exe
+/Users/viktoria/Projects/Plotter/Plotter/obj/Debug/Plotter.pdb
